@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   Meu primeiro CRUD no NodeJS
     <img align="center" alt="Node" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">
 </h1>
